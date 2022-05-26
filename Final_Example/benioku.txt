@@ -1,0 +1,2 @@
+Kisiler.txt dosyası içerisinde Sabis üzerinden paylaşılan örnek veriler yer almaktadır. Program çalıştırıldığında default olarak bu veriler işleme girecektir. 
+Yine istenilen şekilde kurallara uygun olarak Txt dosyasının içeriği değiştirilebilir.

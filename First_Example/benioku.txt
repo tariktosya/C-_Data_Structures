@@ -1,0 +1,5 @@
+Ödevde verilen örnek sayıların ve ekran çıktısının kontrolü amaçlı örnek sayıları "Sayilar.txt" dosyasına hazır olarak tanımladım.
+Program çalıştığında, çalışma ekranında belirttiğim gibi ilk etapta 7 yazmanız yeterli olacaktır.
+*****ÖNEMLİ*****
+"Sayilar.txt" dosyasına yeni veriler eklendiği taktirde bir satırda kaç eleman olduğunu program çalıştığında belirtmeniz gerekmektedir.
+*****ÖNEMLİ*****
